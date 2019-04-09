@@ -1,0 +1,2 @@
+/Users/monicasangam/Documents/QvxAdapter/nysedata.csv
+/Users/bsangam/eclipse-workspace/test/nysedata.csv
